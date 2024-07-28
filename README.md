@@ -1,1 +1,1 @@
-# Hii Hello I'm Vishnu Rathod And Student At Ghribm Jalgaon and Learning Python And machine Learning and Other popular Languages study and Research
+Once approved, the maintainer will merge it.
